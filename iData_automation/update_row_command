@@ -1,0 +1,3 @@
+UPDATE mmambulation.arsen_patient_info_test
+SET discharge_date = '0000-00-00'
+WHERE patient_ID = 1;

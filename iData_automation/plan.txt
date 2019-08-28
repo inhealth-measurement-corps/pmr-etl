@@ -1,0 +1,10 @@
+
+
+- Runs through entire patient info table every 30 seconds or something
+- Cross checks all entries with existing entries in the test_record.txt file 
+- If any entry does not exist, it pulls the patient id, badge id, admission date, and discharge date and 
+inserts it into the idata file, then inserts the entry identifier into the test_record.txt file 
+
+
+
+

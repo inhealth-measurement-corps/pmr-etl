@@ -1,0 +1,14 @@
+
+
+
+Things I did: 
+
+When something is entered into historical details (i.e. a new ambulation is added), I have a script that will look at any new entries,  and then add values calculated based off the entry to the corresponding patients and reinsert those patients variables into the table 
+	- need to modify to prevent patients info from being inserted repeatedly into a table if the same patients gets something added
+
+When a new patient is added to the patient_info table. a script should automatically run and produce an iData file that
+the ambulation code should then be able to use to run the ambulation code.
+
+
+
+
